@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/web-supply-me/static/js/main.e9fd902e.chunk.js",
+    "main.js.map": "/web-supply-me/static/js/main.e9fd902e.chunk.js.map",
+    "runtime-main.js": "/web-supply-me/static/js/runtime-main.5ee7e850.js",
+    "runtime-main.js.map": "/web-supply-me/static/js/runtime-main.5ee7e850.js.map",
+    "static/js/2.4aca7813.chunk.js": "/web-supply-me/static/js/2.4aca7813.chunk.js",
+    "static/js/2.4aca7813.chunk.js.map": "/web-supply-me/static/js/2.4aca7813.chunk.js.map",
+    "index.html": "/web-supply-me/index.html",
+    "static/js/2.4aca7813.chunk.js.LICENSE.txt": "/web-supply-me/static/js/2.4aca7813.chunk.js.LICENSE.txt",
+    "static/media/europe-points.52aff4c9.png": "/web-supply-me/static/media/europe-points.52aff4c9.png",
+    "static/media/facebook.5ff303b4.svg": "/web-supply-me/static/media/facebook.5ff303b4.svg",
+    "static/media/instagram.7ccc7ce2.svg": "/web-supply-me/static/media/instagram.7ccc7ce2.svg",
+    "static/media/languages.1920dda1.svg": "/web-supply-me/static/media/languages.1920dda1.svg",
+    "static/media/linkedin.cba6eefe.svg": "/web-supply-me/static/media/linkedin.cba6eefe.svg",
+    "static/media/messenger-logo.66a853ea.png": "/web-supply-me/static/media/messenger-logo.66a853ea.png",
+    "static/media/phone-app.427ae2d7.png": "/web-supply-me/static/media/phone-app.427ae2d7.png",
+    "static/media/right-arrow.7b87a45b.svg": "/web-supply-me/static/media/right-arrow.7b87a45b.svg",
+    "static/media/telegram-logo.9414138c.png": "/web-supply-me/static/media/telegram-logo.9414138c.png",
+    "static/media/twitter.64404ff5.svg": "/web-supply-me/static/media/twitter.64404ff5.svg",
+    "static/media/users.6dffa9fa.svg": "/web-supply-me/static/media/users.6dffa9fa.svg",
+    "static/media/whatsapp-logo.d1038eb1.png": "/web-supply-me/static/media/whatsapp-logo.d1038eb1.png",
+    "static/media/world.a83a21f7.svg": "/web-supply-me/static/media/world.a83a21f7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ee7e850.js",
+    "static/js/2.4aca7813.chunk.js",
+    "static/js/main.e9fd902e.chunk.js"
+  ]
+}
